@@ -12,5 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qinye6/qinye6/output/github-contribution-grid-snake.svg">
 </picture>
 
+📕 &nbsp;**最新博客文章**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qinye6&show_icons=true&locale=en&layout=compact" alt="qinye6" /></p>
