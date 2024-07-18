@@ -12,7 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qinye6/qinye6/output/github-contribution-grid-snake.svg">
 </picture>
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**最新博客文章**
 <!-- BLOG-POST-LIST:START -->
 - [Java基础（三）--变量](https://qinye.cool/index.php/archives/138/)
 - [Java基础（二）--面向对象](https://qinye.cool/index.php/archives/132/)
