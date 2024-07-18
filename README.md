@@ -12,6 +12,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qinye6/qinye6/output/github-contribution-grid-snake.svg">
 </picture>
 
-📕 &nbsp;**最新博客文章**
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
