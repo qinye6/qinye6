@@ -32,9 +32,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qinye6/qinye6/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 📕 &nbsp;**最新博客文章**
 <!-- BLOG-POST-LIST:START -->
