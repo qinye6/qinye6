@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm QinYe</h1>
-<h3 align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=这里介绍不了我.)</h3>
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=这里介绍不了我.)
+<p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=这里介绍不了我.)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qinye6" alt="qinye6" /></a> </p>
 
