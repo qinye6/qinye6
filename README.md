@@ -37,9 +37,9 @@
 
 📕 &nbsp;**最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [Java基础（三）--变量](https://qinye.cool/index.php/archives/138/)
-- [Java基础（二）--面向对象](https://qinye.cool/index.php/archives/132/)
-- [Java基础（一）--手把手教你做JDK环境变量配置](https://qinye.cool/index.php/archives/126/)
-- [个人导航站](https://qinye.cool/index.php/archives/125/)
-- [Go学习（二）基础知识](https://qinye.cool/index.php/archives/123/)
+- [Java基础（三）--变量](https://qinye.cool/?posturl=https://qinye.cool/index.php/archives/138/)
+- [Java基础（二）--面向对象](https://qinye.cool/?posturl=https://qinye.cool/index.php/archives/132/)
+- [Java基础（一）--手把手教你做JDK环境变量配置](https://qinye.cool/?posturl=https://qinye.cool/index.php/archives/126/)
+- [个人导航站](https://qinye.cool/?posturl=https://qinye.cool/index.php/archives/125/)
+- [Go学习（二）基础知识](https://qinye.cool/?posturl=https://qinye.cool/index.php/archives/123/)
 <!-- BLOG-POST-LIST:END -->
